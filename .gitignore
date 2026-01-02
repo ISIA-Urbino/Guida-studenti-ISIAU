@@ -1,0 +1,5 @@
+mkdocs-material/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
