@@ -43,6 +43,7 @@ nav:
 
 theme:
   name: material
+  custom_dir: overrides
   language: it
   logo: assets/ISIAU_logo-light.png
   favicon: assets/favicon.png
@@ -75,7 +76,7 @@ extra:
   generator: false
   analytics:
     provider: google
-    property: G-CQ6908H944
+    property: G-7N0JQ8H4PC
     feedback:
       title: Questa pagina ti è stata utile?
       ratings:
