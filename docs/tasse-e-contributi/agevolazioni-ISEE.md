@@ -6,6 +6,9 @@ hide:
 
 ## Iscriversi con il calcolo ISEE
 
+!!! info "Attenzione"
+    Attenzione: per poter usufruire delle agevolazioni relative alla dichiarazione [ISEE](../tasse-e-contributi/agevolazioni-ISEE.md) è necessario che questa riporti la dicitura "si applica alle prestazioni agevolate per il diritto allo studio universitario".
+
 Al fine di poter usufruire delle agevolazioni previste dall’ISEE è necessario presentare la relativa documentazione durante la fase d’immatricolazione o iscrizione. L’entità del *contributo annuale di funzionamento* verrà calcolato sulla base dei parametri sotto riportati:
 
 | Fascia ISEE-Università | Incidenza sul contributo |

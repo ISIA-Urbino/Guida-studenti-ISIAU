@@ -38,7 +38,7 @@
 .md-typeset {
     font-size: .9rem;
 }
-label.md-nav__title {
+label.md-nav__title, h1#home {
     display: none;
     visibility: hidden;
 }
@@ -63,9 +63,25 @@ label.md-nav__title {
 }
 .md-typeset h1 {
     font-size: 1.8rem;
+    margin: 0 0 1rem;
+}
+.md-typeset h2 {
+    margin: 1rem 0 0.5rem;
 }
 .md-nav__link[for]:focus, .md-nav__link[for]:hover, .md-nav__link[href]:focus, .md-nav__link[href]:hover {
     color: var(--md-typeset-a-color);
+}
+.md-typeset ol li ol, .md-typeset ol li ul, .md-typeset ul li ol, .md-typeset ul li ul {
+    margin-top: 0;
+}
+[dir=ltr] .md-typeset ol, [dir=ltr] .md-typeset ul {
+    margin-left: 0;
+}
+.md-typeset ol li, .md-typeset ul li {
+    margin-bottom: 0.2rem;
+}
+.md-typeset ol li li, .md-typeset ul li li {
+    margin-bottom: 0;
 }
 @media screen and (max-width: 76.234375em) {
     .md-header__button.md-logo {

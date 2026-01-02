@@ -12,6 +12,9 @@ In questa pagina vengono riportati gli importi e le modalità di pagamento delle
 - [Agevolazioni ISEE](agevolazioni-ISEE.md)
 - [Borsa di studio ERDIS](borsa-di-studio-ERDIS.md)
 - [Rata agevolata](rata-agevolata.md)
+- È possibile fare [richiesta di esonero per i figli di beneficiari di pensione di inabilità](../assets/Modello-richiesta-esonero-figli-beneficiari-pensione-inabilita.docx){:target="_blank"} (Art. 30 - Legge 118/71)
+- È possibile fare richiesta di esenzione ISEE tramite presentazione di certificato di invalidità
+- È possibile fare [richiesta di dilazione del pagamento della rata contributo di funzionamento](../assets/Richiesta dilazione contributo di funzionamento.docx){:target="_blank"}
 
 ### Addizionali
 - [PagoPA](PagoPA.md)

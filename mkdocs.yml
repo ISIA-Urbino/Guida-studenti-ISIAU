@@ -1,6 +1,46 @@
 site_name: Guide ISIA U
 site_url: https://guide.isiaurbino.net
-copyright: Copyright &copy; 2024 - ISIA Urbino
+copyright: Copyright &copy; 2025 - ISIA Urbino
+nav:
+  - Home: index.md
+  - Ammissioni:
+      - 'Ammissioni': 'ammissioni/index.md'
+  - Immatricolazioni:
+      - 'Immatricolazioni': 'immatricolazioni/index.md'
+  - Iscrizione agli anni successivi:
+      - 'Iscrizione agli anni successivi': 'iscrizione-anni-successivi/index.md'
+      - 'Iscrizione ordinaria a settembre': 'iscrizione-anni-successivi/iscrizione-ordinaria-settembre.md'
+      - 'Iscrizione non diplomati': 'iscrizione-anni-successivi/iscrizione-non-diplomati.md'
+      - 'Tutti gli allegati': 'iscrizione-anni-successivi/tutti-gli-allegati.md'
+  - Piano di studi:
+      - 'Piano di studi': 'piano-di-studi/index.md'
+  - Calendari delle lezioni:
+      - 'Calendari delle lezioni': 'calendari-lezioni/index.md'
+      - 'Aggiungi al Calendario Google': 'calendari-lezioni/aggiungi-al-Google-Calendar.md'
+      - 'Abilita le notifiche': 'calendari-lezioni/abilita-le-notifiche.md'
+  - Frequenza alle lezioni:
+      - 'Frequenza alle lezioni': 'frequenza-lezioni/index.md'
+  - Crediti liberi:
+      - 'Crediti liberi': 'crediti-liberi/index.md'
+      - 'Tirocini': 'crediti-liberi/tirocini.md'
+  - Tesi:
+      - 'Presentazione domanda di tesi': 'presentazione-domanda-di-tesi/index.md'
+      - 'Come presentare la domanda di tesi': 'presentazione-domanda-di-tesi/presentazione-domanda-di-tesi.md'
+  - Tasse e contributi:
+      - 'Tasse e contributi': 'tasse-e-contributi/index.md'
+      - 'Agevolazioni ISEE': 'tasse-e-contributi/agevolazioni-ISEE.md'
+      - 'Borsa di studio ERDIS': 'tasse-e-contributi/borsa-di-studio-ERDIS.md'
+      - 'Tassa regionale ERDIS': 'tasse-e-contributi/tassa-regionale-ERDIS-il-diritto-allo-studio.md'
+      - 'Rata agevolata': 'tasse-e-contributi/rata-agevolata.md'
+      - 'Contributo onnicomprensivo annuale di funzionamento': 'tasse-e-contributi/contributo-onnicomprensivo-annuale-funzionamento.md'
+      - 'PagoPA': 'tasse-e-contributi/PagoPA.md'
+  - Certificati:
+      - 'Certificati': 'certificati/index.md'
+  - Modulistica:
+      - 'Modulistica': 'modulistica/index.md'
+  - Regolamenti:
+      - 'Regolamenti': 'regolamenti/index.md'
+
 theme:
   name: material
   language: it
