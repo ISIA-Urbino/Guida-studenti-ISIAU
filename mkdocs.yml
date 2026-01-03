@@ -1,6 +1,6 @@
 site_name: Guide ISIA U
 site_url: https://guide.isiaurbino.net
-copyright: Copyright &copy; 2025 - ISIA Urbino
+copyright: Copyright &copy; <script>document.write(new Date().getFullYear())</script> - ISIA Urbino
 nav:
   - Home: index.md
   - Ammissioni:
@@ -89,7 +89,7 @@ extra:
           name: Ci sono margini di miglioramento
           data: 0
           note: >- 
-            Grazie per il tuo feedback! Aiutaci a migliorare questa pagina scrivendo <a href="mailto:guide@isiaurbino.net" rel="noopener">alla nostra email</a>.
+            Grazie per il tuo feedback! Aiutaci a migliorare questa pagina scrivendo <a href="mailto:collaborazione.funzionamento@isiaurbino.net" rel="noopener">alla nostra email</a>.
   consent:
     title: Cookie consent
     description: >- 
