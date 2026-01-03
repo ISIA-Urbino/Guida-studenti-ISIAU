@@ -1,5 +1,7 @@
 site_name: Guide ISIA U
 site_url: https://guide.isiaurbino.net
+site_description: Guide complete per studenti ISIA Urbino - informazioni su corsi, servizi, regolamenti e vita accademica presso l'Istituto Superiore per le Industrie Artistiche di Urbino
+site_author: ISIA Urbino
 copyright: Copyright &copy; <script>document.write(new Date().getFullYear())</script> - ISIA Urbino
 nav:
   - Home: index.md
@@ -74,6 +76,19 @@ theme:
         name: Modalità giorno
 extra:
   generator: false
+  meta:
+    - name: keywords
+      content: ISIA Urbino, guide studenti, corsi design, istituto artistico Urbino, servizi studenti, regolamenti accademici, vita universitaria Urbino
+    - property: og:type
+      content: website
+    - property: og:title
+      content: Guide per Studenti - ISIA Urbino
+    - property: og:description
+      content: Guide complete per studenti ISIA Urbino - corsi, servizi e vita accademica
+    - property: og:image
+      content: https://guide.isiaurbino.net/assets/ISIAU_logo-light.png
+    - property: og:url
+      content: https://guide.isiaurbino.net/
   analytics:
     provider: google
     property: G-7N0JQ8H4PC
