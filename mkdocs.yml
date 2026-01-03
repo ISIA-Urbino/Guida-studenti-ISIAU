@@ -114,6 +114,7 @@ extra_css:
 extra_javascript:
   - https://code.jquery.com/jquery-3.7.1.min.js
   - javascripts/extra.js
+  - javascripts/schema.js
 plugins:
   - search
 markdown_extensions:
