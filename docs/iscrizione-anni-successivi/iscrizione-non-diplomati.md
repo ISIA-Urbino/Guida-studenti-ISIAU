@@ -6,10 +6,7 @@ hide:
 
 ## Come iscriversi da non diplomato nella sessione invernale al nuovo anno di corso
 
-!!! info "Attenzione"
-    L’[ISEE](../tasse-e-contributi/agevolazioni-ISEE.md) per il calcolo del contributo annuale di funzionamento personalizzato è presentabile solo per chi si iscrive al 1º anno fuoricorso.
-
-Se hai presentando la domanda di tesi per la sessione invernale di marzo e non l’hai discussa, dovrai iscriverti al nuovo anno accademico come fuoricorso, tassativamente dal 1º al 31 marzo.
+Se hai presentato la domanda di tesi per la sessione invernale di marzo e non l’hai discussa, dovrai iscriverti al nuovo anno accademico come fuoricorso, tassativamente dal 1º al 31 marzo.
 
 Ti ricordiamo che per poter usufruire di eventuali agevolazioni sul “contributo annuale di funzionamento” dovrai aver allegato, contestualmente alla domanda di tesi (entro il 30 settembre), anche l’ISEE.
 
