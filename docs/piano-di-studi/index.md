@@ -4,7 +4,7 @@ hide:
 ---
 # Piano di studi
 
-- [Piano di studi 2025-2026](<../assets/A.A. 2025-2026 - Piano di studi definitivo al 30.09.2025.pdf){:target="_blank"} 
+- [Piano di studi 2025-2026](<../assets/A.A. 2025-2026 - Piano di studi definitivo al 30.09.2025.pdf>){:target="_blank"} 
 
 ### Precedenti piani di studi
 
