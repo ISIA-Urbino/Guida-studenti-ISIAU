@@ -34,7 +34,7 @@ Di seguito sono riportate le tasse per l’iscrizione e la frequenza del trienni
 
 ## Tasse e contributo bienni specialistici
 
-Di seguito sono riportate le tasse per l’iscrizione e la frequenza dei bienni specialistici in Progettazione grafica ed editoriale indirizzi: Comunicazione e Design per l’Editoria, Illustrazione e Fotografia.
+Di seguito sono riportate le tasse per l’iscrizione e la frequenza dei bienni specialistici in Comunicazione Visiva e Design per l'Editoria - indirizzo generico, indirizzo Fotografia e indirizzo Illustrazione.
 
 | Importo | Tassa |
 | --- | --- |

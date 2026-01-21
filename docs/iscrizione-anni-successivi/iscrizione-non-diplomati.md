@@ -8,7 +8,7 @@ hide:
 
 Se hai presentato la domanda di tesi per la sessione invernale di marzo e non l’hai discussa, dovrai iscriverti al nuovo anno accademico come fuoricorso, tassativamente dal 1º al 31 marzo.
 
-Ti ricordiamo che per poter usufruire di eventuali agevolazioni sul “contributo annuale di funzionamento” dovrai aver allegato, contestualmente alla domanda di tesi (entro il 30 settembre), anche l’ISEE.
+Ti ricordiamo che per poter usufruire di eventuali agevolazioni sul “contributo annuale di funzionamento” dovrai aver allegato, contestualmente alla domanda di tesi, anche l’ISEE.
 
 !!! info "Attenzione"
     Attenzione: per poter usufruire delle agevolazioni relative alla dichiarazione [ISEE](../tasse-e-contributi/agevolazioni-ISEE.md) è necessario che questa riporti la dicitura "si applica alle prestazioni agevolate per il diritto allo studio universitario".

@@ -4,11 +4,6 @@ hide:
 ---
 # Immatricolazioni
 
-!!! warning "Dall'1 al 31 agosto 2025"
-
-    **Finestra utile per la presentazione delle domande di immatricolazione per l'anno accademico 2025-2026**
-
-
 ## Immatricolarsi all’ISIA Urbino
 
 L’immatricolazione è l’ultimo passaggio prima di diventare a tutti gli effetti studente all’ISIA Urbino. 
