@@ -46,7 +46,3 @@ Domande di tesi presentate o modificate subito dopo la scadenza prevista potrann
 
 !!! info "Attenzione"
     Ricorda che la domanda di tesi è valevole per una sola sessione pertanto, qualora tu non riesca a diplomarti, dovrai presentare una nuova domanda di tesi secondo le scadenze previste dal regolamento.
-
-## Ritiro originale diploma
-
-[Richiesta ritiro pergamena diploma accademico (pdf)](<../assets/Richiesta ritiro pergamena di diploma accademico.pdf>){:target="_blank"}<br>Richiesta per il ritiro dell'originale di diploma. Per il ritiro è necessario compilare questo modulo e recarsi di persona in Segreteria didattica, premuniti di un documento di identità, insieme alla tassa da 90,84€ indicata nel modulo e una marca da bollo da 16€
