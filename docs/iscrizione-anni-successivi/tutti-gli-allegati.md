@@ -10,7 +10,7 @@ hide:
 
 :material-arrow-right: [Modulo d'iscrizione anni successivi al primo](../assets/ModuloIscrizioneAnniSuccessiviAlPrimo.pdf){:target="_blank"}
 
-:material-arrow-right: [Modulo d'iscrizione per non diplomati sessione invernale](../assets/Modulo-iscrizione-non-diplomati-sessione-invernale.pdf){:target="_blank"}
+:material-arrow-right: [Modulo d'iscrizione per non diplomati sessione invernale](../assets/ModuloIscrizioneNonDiplomatiSessioneInvernale.pdf){:target="_blank"}
 
 ### Manifesto degli studi
 
