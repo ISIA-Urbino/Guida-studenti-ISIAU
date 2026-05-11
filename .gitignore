@@ -1,5 +1,6 @@
 mkdocs-material/
 venv/
+.venv/
 site/
 __pycache__/
 *.pyc
