@@ -24,4 +24,4 @@ I tirocini possono essere svolti anche nell'ambito della mobilità Erasmus train
 - [Modulo Progetto formativo in inglese](<../assets/2 - training project.doc>)
 - [Modulo Convenzione tirocinio](<../assets/Convenzione tirocinio.doc>)
 - [Modulo Convenzione tirocinio in inglese](<../assets/3 - internship agreement.doc>)
-- [Aziende, studi ed enti che offrono opportunità di tirocinio agli studenti](https://docs.google.com/spreadsheets/d/1bFb6Nk5ZJmIAmLOh396fQ8XJ3oyBEzuwa-M7ECcr0UM/edit?gid=0#gid=0){:target="_blank"}
+<!-- - [Aziende, studi ed enti che offrono opportunità di tirocinio agli studenti](https://docs.google.com/spreadsheets/d/1bFb6Nk5ZJmIAmLOh396fQ8XJ3oyBEzuwa-M7ECcr0UM/edit?gid=0#gid=0){:target="_blank"} -->
