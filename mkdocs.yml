@@ -25,6 +25,10 @@ nav:
   - Crediti liberi:
       - 'Crediti liberi': 'crediti-liberi/index.md'
       - 'Tirocini': 'crediti-liberi/tirocini.md'
+  - Erasmus:
+      - 'Erasmus': 'erasmus/index.md'
+      - 'Incoming': 'erasmus/incoming.md'
+      - 'Iniziative partner': 'erasmus/iniziative-partner.md'
   - Tesi:
       - 'Presentazione domanda di tesi': 'presentazione-domanda-di-tesi/index.md'
       - 'Come presentare la domanda di tesi': 'presentazione-domanda-di-tesi/presentazione-domanda-di-tesi.md'

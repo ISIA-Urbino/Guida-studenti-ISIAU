@@ -4,16 +4,18 @@ hide:
 ---
 # Calendari lezioni
 
+Il calendario accademico 2026-2027 è disponibile a [questo link](../assets/ISIAU-CalendarioAccademico2026-2027.pdf){:target="_blank"}.
+
 ## **Procedure**
-
-:material-arrow-right: [Abilita le notifiche](abilita-le-notifiche.md)
-
-:material-arrow-right: [Aggiungi al Google Calendar](aggiungi-al-Google-Calendar.md)
 
 Il calendario è disponibile su [calendar.google.com](http://calendar.google.com){:target="_blank"}. Clicca sul corso che ti interessa per poter accedere e aggiungere il tuo orario. Per una prestazione migliore consigliamo di scaricare l'app Google Calendar (iOS o Android).
 
+:material-arrow-right: [Come aggiungere le lezioni al Google Calendar](aggiungi-al-Google-Calendar.md)
+
 !!! info "Attenzione"
     L’orario è in continuo aggiornamento, attiva le notifiche per ricevere aggiornamenti.
+
+:material-arrow-right: [Abilita le notifiche](abilita-le-notifiche.md)
 
 
 ## Triennio
