@@ -2,7 +2,7 @@ site_name: Guide ISIA U
 site_url: https://guide.isiaurbino.net
 site_description: Guide complete per studenti ISIA Urbino - informazioni su corsi, servizi, regolamenti e vita accademica presso l'Istituto Superiore per le Industrie Artistiche di Urbino
 site_author: ISIA Urbino
-copyright: Copyright &copy; <script>document.write(new Date().getFullYear())</script> - ISIA Urbino
+copyright: Copyright &copy; <script>document.write(new Date().getFullYear())</script> - ISIA Urbino | Hai notato un errore? Segnalacelo <a href="mailto:collaborazione.funzionamento@isiaurbino.net">scrivendoci</a>. Grazie! | <a href="https://privacy.isiaurbino.net" target="_blank">Privacy ISIA U</a>
 nav:
   - Home: index.md
   - Ammissioni:

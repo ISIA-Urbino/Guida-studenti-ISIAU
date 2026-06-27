@@ -34,6 +34,16 @@
     color: white;
 }
 
+html .md-footer-meta.md-typeset a {
+    text-decoration: underline;
+}
+html .md-footer-meta.md-typeset a:focus, html .md-footer-meta.md-typeset a:hover {
+    color: black;
+}
+html .md-footer-meta.md-typeset a:hover {
+    text-decoration: none;
+}
+
 .md-nav,
 .md-typeset table:not([class]),
 .md-copyright {
@@ -116,26 +126,6 @@ h1#home {
 
 footer.md-footer {
     position: relative;
-}
-
-.md-footer__custom {
-    margin: 0 auto 1rem auto;
-    padding-left: .8rem;
-    width: 61rem;
-    max-width: 61rem;
-    font-size: 0.8rem;
-    white-space: normal;
-}
-
-@media screen and (max-width: 48rem) {
-    .md-footer__custom {
-        display: block;
-        margin: 0 0 1rem 0;
-        padding-left: .8rem;
-        padding-right: 1rem;
-        text-align: left;
-        width: 100%;
-    }
 }
 
 .md-footer__custom a {
