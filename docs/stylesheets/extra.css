@@ -114,6 +114,35 @@ h1#home {
     font-weight: 500;
 }
 
+footer.md-footer {
+    position: relative;
+}
+
+.md-footer__custom {
+    margin: 0 auto 1rem auto;
+    padding-left: .8rem;
+    width: 61rem;
+    max-width: 61rem;
+    font-size: 0.8rem;
+    white-space: normal;
+}
+
+@media screen and (max-width: 48rem) {
+    .md-footer__custom {
+        display: block;
+        margin: 0 0 1rem 0;
+        padding-left: .8rem;
+        padding-right: 1rem;
+        text-align: left;
+        width: 100%;
+    }
+}
+
+.md-footer__custom a {
+    color: inherit;
+    text-decoration: underline;
+}
+
 .md-typeset h1 {
     font-size: 1.8rem;
     margin: 0 0 1rem;

@@ -13,6 +13,8 @@ nav:
       - 'Iscrizione agli anni successivi': 'iscrizione-anni-successivi/index.md'
       - 'Iscrizione ordinaria a settembre': 'iscrizione-anni-successivi/iscrizione-ordinaria-settembre.md'
       - 'Iscrizione non diplomati': 'iscrizione-anni-successivi/iscrizione-non-diplomati.md'
+      - 'Iscrizione al 2° e 3° anno': 'iscrizione-anni-successivi/iscrizione-al-2-e-3-anno.md'
+      - 'Iscrizione fuori corso': 'iscrizione-anni-successivi/iscrizione-fuori-corso.md'
       - 'Tutti gli allegati': 'iscrizione-anni-successivi/tutti-gli-allegati.md'
   - Piano di studi:
       - 'Piano di studi': 'piano-di-studi/index.md'
@@ -32,6 +34,7 @@ nav:
   - Tesi:
       - 'Presentazione domanda di tesi': 'presentazione-domanda-di-tesi/index.md'
       - 'Come presentare la domanda di tesi': 'presentazione-domanda-di-tesi/presentazione-domanda-di-tesi.md'
+      - 'Tutti i documenti': 'presentazione-domanda-di-tesi/tutti-i-documenti.md'
   - Tasse e contributi:
       - 'Tasse e contributi': 'tasse-e-contributi/index.md'
       - 'Agevolazioni ISEE': 'tasse-e-contributi/agevolazioni-ISEE.md'
@@ -112,7 +115,7 @@ extra:
   consent:
     title: Cookie consent
     description: >- 
-      Questo sito non esegue alcun tipo di profilazione, né richiede alcun dato personale. I suoi cookie hanno il solo scopo di aggiornare il conteggio visiste e, se possibile, ripristinare le vostre preferenze di lettura.     
+      Questo sito non esegue alcun tipo di profilazione, né richiede alcun dato personale. I suoi cookie hanno il solo scopo di aggiornare il conteggio visiste e, se possibile, ripristinare le vostre preferenze di lettura. 
 extra_css:
   - stylesheets/extra.css
 extra_javascript:
