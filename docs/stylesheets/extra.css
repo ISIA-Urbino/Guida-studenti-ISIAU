@@ -8,9 +8,10 @@
 }
 
 :root {
-    --md-text-font: "HalyardDis_ISIAU Bk"; 
+    --md-text-font: "HalyardDis_ISIAU Bk";
 }
-:root > * {
+
+:root>* {
     --md-typeset-a-color: #0000EE;
     --md-footer-bg-color: white;
     --md-footer-bg-color--dark: black;
@@ -19,91 +20,165 @@
     --md-footer-fg-color--light: black;
     --md-footer-fg-color--lighter: white;
 }
+
 .md-header--shadow {
     box-shadow: none;
 }
+
 [data-md-color-scheme=slate][data-md-color-primary=black] footer.md-footer {
     background-color: black;
     color: white;
 }
-[data-md-color-scheme=slate][data-md-color-primary=black] footer.md-footer  .md-copyright__highlight {
+
+[data-md-color-scheme=slate][data-md-color-primary=black] footer.md-footer .md-copyright__highlight {
     color: white;
 }
-.md-nav, .md-typeset table:not([class]), .md-copyright {
+
+.md-nav,
+.md-typeset table:not([class]),
+.md-copyright {
     font-size: .8rem;
 }
-.md-typeset .admonition, .md-typeset details {
+
+.md-typeset .admonition,
+.md-typeset details {
     font-size: .85rem;
 }
+
+.md-typeset details {
+    background-color: transparent;
+    border: .075rem solid transparent;
+}
+
+.md-typeset details.info:focus-within {
+    box-shadow: none;
+}
+
+.md-typeset .info>summary:before {
+    display: none;
+}
+
+[dir=ltr] .md-typeset summary {
+    padding-left: 1rem;
+}
+
+.md-typeset .info>summary {
+    background-color: rgba(0, 184, 212, 0.05);
+}
+
+html .md-typeset details>:last-child {
+    padding-left: .4rem;
+}
+
+.md-typeset details.info {
+    border-color: transparent;
+}
+
 .md-typeset {
     font-size: .9rem;
 }
-label.md-nav__title, h1#home {
+
+label.md-nav__title,
+h1#home {
     display: none;
     visibility: hidden;
 }
-.md-typeset .admonition.info, .md-typeset details.info, .md-typeset .admonition.warning, .md-typeset details.warning {
+
+.md-typeset .admonition.info,
+.md-typeset details.info,
+.md-typeset .admonition.warning,
+.md-typeset details.warning {
     box-shadow: none;
     border-radius: 0;
 }
-.md-typeset .info>.admonition-title, .md-typeset .warning>.admonition-title, .md-footer-meta {
+
+.md-typeset .info>.admonition-title,
+.md-typeset .warning>.admonition-title,
+.md-footer-meta {
     background: transparent;
 }
+
 #logo_light_mode {
     display: var(--md-footer-logo-light-mode);
 }
+
 #logo_dark_mode {
     display: var(--md-footer-logo-dark-mode);
 }
+
 [data-md-color-scheme="slate"] img[alt="logo"] {
     filter: brightness(200);
 }
+
 .md-header__topic:first-child {
     font-weight: 500;
 }
+
 .md-typeset h1 {
     font-size: 1.8rem;
     margin: 0 0 1rem;
 }
+
 .md-typeset h2 {
     margin: 1rem 0 0.5rem;
 }
-.md-nav__link[for]:focus, .md-nav__link[for]:hover, .md-nav__link[href]:focus, .md-nav__link[href]:hover {
+
+.md-nav__link[for]:focus,
+.md-nav__link[for]:hover,
+.md-nav__link[href]:focus,
+.md-nav__link[href]:hover {
     color: var(--md-typeset-a-color);
 }
-.md-typeset ol li ol, .md-typeset ol li ul, .md-typeset ul li ol, .md-typeset ul li ul {
+
+.md-typeset ol li ol,
+.md-typeset ol li ul,
+.md-typeset ul li ol,
+.md-typeset ul li ul {
     margin-top: 0;
 }
-[dir=ltr] .md-typeset ol, [dir=ltr] .md-typeset ul {
+
+[dir=ltr] .md-typeset ol,
+[dir=ltr] .md-typeset ul {
     margin-left: 0;
 }
-.md-typeset ol li, .md-typeset ul li {
+
+.md-typeset ol li,
+.md-typeset ul li {
     margin-bottom: 0.2rem;
 }
-.md-typeset ol li li, .md-typeset ul li li {
+
+.md-typeset ol li li,
+.md-typeset ul li li {
     margin-bottom: 0;
 }
+
 @media screen and (max-width: 76.234375em) {
     .md-header__button.md-logo {
         display: block;
     }
+
     label.md-header__button.md-icon[for="__drawer"] {
         order: 5;
     }
+
     .md-icon svg {
         width: 1.5rem;
         height: 1.5rem;
     }
+
     ul.md-nav__list span.md-ellipsis {
         z-index: 10;
     }
+
     li.md-nav__item nav {
         position: absolute !important;
         height: auto !important;
         top: auto !important;
         left: 5% !important;
     }
-    .md-nav__toggle:checked~.md-nav[aria-expanded="false"], span.md-ellipsis + span.md-nav__icon.md-icon {
+
+    .md-nav__toggle:checked~.md-nav[aria-expanded="false"],
+    span.md-ellipsis+span.md-nav__icon.md-icon {
         display: none;
         visibility: hidden;
     }

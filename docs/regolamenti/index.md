@@ -5,6 +5,9 @@ hide:
 # Regolamenti
 
 - [Regolamento generale d'Istituto](../assets/regolamenti/regolamento_istituto.pdf){:target="_blank"}
+- [Statuto di ISIA Urbino](../assets/regolamenti/ISIAU-Statuto.pdf){:target="_blank"}
+- [Regolamento per la concessione in uso temporaneo di spazi e locali](../assets/regolamenti/ISIAU_regolamento_concessione_spazi.pdf){:target="_blank"}
+- [Regolamento per l'accettazione di donazioni e lasciti](../assets/regolamenti/ISIAU-Regolamento-accettazione-donazioni-lasciti.pdf){:target="_blank"}
 - [Regolamento delle attività per conto terzi e cessione dei risultati di ricerca](../assets/regolamenti/06_ISIA_Urbino_Attivita_Conto_Terzi.pdf){:target="_blank"}
 - [Regolamento di funzionamento del Consiglio di Amministrazione](../assets/regolamenti/1724920736427_regolamento_di_funzionamento_del_consiglio_di_amministrazione_-_i.s.i.a._urbino.pdf){:target="_blank"}
 - [Regolamento di funzionamento del Consiglio Accademico](../assets/regolamenti/1724920736572_regolamento_di_funzionamento_del_consiglio_accademico_-_i.s.i.a._urbino.pdf){:target="_blank"}
