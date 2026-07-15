@@ -11,11 +11,11 @@ nav:
       - 'Immatricolazioni': 'immatricolazioni/index.md'
   - Iscrizione agli anni successivi:
       - 'Iscrizione agli anni successivi': 'iscrizione-anni-successivi/index.md'
-      - 'Iscrizione ordinaria a settembre': 'iscrizione-anni-successivi/iscrizione-ordinaria-settembre.md'
-      - 'Iscrizione non diplomati': 'iscrizione-anni-successivi/iscrizione-non-diplomati.md'
-      - 'Iscrizione al 2° e 3° anno': 'iscrizione-anni-successivi/iscrizione-al-2-e-3-anno.md'
-      - 'Iscrizione fuori corso': 'iscrizione-anni-successivi/iscrizione-fuori-corso.md'
-      - 'Tutti gli allegati': 'iscrizione-anni-successivi/tutti-gli-allegati.md'
+      # - 'Iscrizione ordinaria a settembre': 'iscrizione-anni-successivi/iscrizione-ordinaria-settembre.md'
+      # - 'Iscrizione non diplomati': 'iscrizione-anni-successivi/iscrizione-non-diplomati.md'
+      # - 'Iscrizione al 2° e 3° anno': 'iscrizione-anni-successivi/iscrizione-al-2-e-3-anno.md'
+      # - 'Iscrizione fuori corso': 'iscrizione-anni-successivi/iscrizione-fuori-corso.md'
+      # - 'Tutti gli allegati': 'iscrizione-anni-successivi/tutti-gli-allegati.md'
   - Piano di studi:
       - 'Piano di studi': 'piano-di-studi/index.md'
   - Calendari delle lezioni:

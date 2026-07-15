@@ -26,6 +26,10 @@ A [questo link](iniziative-partner.md), invece, è possibile consultare un elenc
 
 ### FAQ
 
+??? info "Mentre sono in Erasmus posso comunque sostenere gli esami ISIA U?"
+
+    Sì, il Consiglio accademico ha approvato l’ammissibilità degli esami online per gli studenti Erasmus outbound, prevedendo la creazione di un link ad una call dedicata da parte della segreteria didattica, che dovrà comunicarlo sia ai docenti che agli studenti. L’esame verrà sostenuto alla presenza del docente e di un collega studente, a tutela del corretto svolgimento, nelle sessioni approvate.
+
 ??? info "I corsi che seguirò in Erasmus mi possono essere  iconosciuti come crediti in attività autonome?"
 
     Sì, è possibile riconoscerli come attività autonome.
@@ -70,11 +74,9 @@ A [questo link](iniziative-partner.md), invece, è possibile consultare un elenc
 
     Devi scegliere i corsi entro la scadenza di presentazione dell'OLA (Online Learning Agreemenet). La data limite di solito ti viene comunicata dalla nostra segreteria Erasmus. Da regolamento va predisposto prima dell'inizio della mobilità entro 15 giorni dall'inizio della stessa.
 
-
 ??? info "Mi è stato chiesto di compilare l’OLA, che cosa è?"
 
-    L'OLA (Online Learning Agreement) è il documento ufficiale nel quale vanno riportate le informazioni dei due istituti partner
-    dello scambio, le informazioni dello studente e i corsi che frequenterai nell'istituto partner e quelli che verranno sostituiti con i corsi ISIA U.
+    L'OLA (Online Learning Agreement) è il documento ufficiale nel quale vanno riportate le informazioni dei due istituti partner dello scambio, le informazioni dello studente e i corsi che frequenterai nell'istituto partner e quelli che verranno sostituiti con i corsi ISIA U.
 
 ??? info "Una volta firmato e consegnato l’OLA non è più modificabile?"
 
