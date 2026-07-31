@@ -35,14 +35,11 @@ Può essere concessa la stesura dell'elaborato di tesi in lingua inglese dietro 
 ## Argomento di tesi compartecipato
 Due o più candidati/e possono svolgere la propria tesi sullo stesso argomento, purché ne affrontino aspetti diversi, producendo contenuti diversi e ben distinti. Ogni progetto di tesi deve avere un titolo diverso.
 
-## Richiesta di pubblicazione tesi
-:material-arrow-right: [Ecco il modulo di richiesta per pubblicare la tesi](../assets/ISIAU-Richiesta-pubblicazione-tesi.docx){:target="_blank"}
-
 ## Passaggi da eseguire
 :material-arrow-right: [Ecco come presentare la domanda di tesi](presentazione-domanda-di-tesi.md)
 
 ## Mora
-Domande di tesi presentate o modificate subito dopo la scadenza prevista potranno essere accettate a seguito del pagamento di una mora stabilita ogni anno dal Consiglio d'Amministrazione.
+Domande di tesi presentate o modificate subito dopo la scadenza prevista potranno essere accettate a seguito del pagamento di una mora di 500 euro.
 
 !!! info "Attenzione"
     Ricorda che la domanda di tesi è valevole per una sola sessione pertanto, qualora tu non riesca a diplomarti, dovrai presentare una nuova domanda di tesi secondo le scadenze previste dal regolamento.

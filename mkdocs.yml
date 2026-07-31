@@ -32,9 +32,8 @@ nav:
       - 'Incoming': 'erasmus/incoming.md'
       - 'Iniziative partner': 'erasmus/iniziative-partner.md'
   - Tesi:
-      - 'Presentazione domanda di tesi': 'presentazione-domanda-di-tesi/index.md'
-      - 'Come presentare la domanda di tesi': 'presentazione-domanda-di-tesi/presentazione-domanda-di-tesi.md'
-      - 'Tutti i documenti': 'presentazione-domanda-di-tesi/tutti-i-documenti.md'
+      - 'Tesi': 'tesi/index.md'
+      - 'Come presentare la tesi': 'tesi/presentazione-domanda-di-tesi.md'
   - Tasse e contributi:
       - 'Tasse e contributi': 'tasse-e-contributi/index.md'
       - 'Agevolazioni ISEE': 'tasse-e-contributi/agevolazioni-ISEE.md'

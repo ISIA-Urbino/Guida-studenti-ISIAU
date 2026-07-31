@@ -6,7 +6,9 @@ hide:
 
 ## Iscrizione agli anni successivi al primo
 
-Dall'anno accademico 2026-2027 la procedura di iscrizione agli anni successivi al primo verrà gestita dalla piattaforma [isiaurbino.cloud](https://isiaurbino.cloud){:target="_blank"} **dal 1 agosto al 30 settembre**. Per i non diplomati alla sessione di tesi invernale, la procedura va portata a termine **entro il 31 marzo**.
+Dall'anno accademico 2026-2027 la procedura di iscrizione agli anni successivi al primo verrà gestita dalla piattaforma [isiaurbino.cloud](https://isiaurbino.cloud){:target="_blank"}. Le iscrizioni ordinarie vanno inviate **entro il 30 settembre**. Per i non diplomati alla sessione di tesi invernale, la procedura va portata a termine **entro il 31 marzo**.
+
+Domande di iscrizione presentate o modificate subito dopo la scadenza prevista potranno essere accettate a seguito del pagamento di una mora di 300 euro.
 
 <!-- ### Tipologie di iscrizione
 
