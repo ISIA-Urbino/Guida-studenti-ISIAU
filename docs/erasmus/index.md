@@ -18,6 +18,12 @@ Le mobilità si svolgono nell'anno accademico successivo a quello di partecipazi
 - [tutoring.international@isiaurbino.net](mailto:tutoring.international@isiaurbino.net) (team Erasmus)
 - [staff.international@isiaurbino.net](mailto:staff.international@isiaurbino.net) (contatto Erasmus)
 
+### Documentazione utile
+
+- [Autocertificazione per chiedere la concessione del contributo finanziario integrativo come supporto per l’inclusione](../assets/erasmus/Autocertificazione-minori-opportunita.docx){:target="_blank"}
+- [Importi applicabili Erasmus](../assets/erasmus/Importi-applicabili-Erasmus.pdf){:target="_blank"}
+- [Carta dello studente Erasmus](../assets/erasmus/Carta-dello-studente-Erasmus.pdf){:target="_blank"}
+
 ### Elenco degli istituti partner
 
 La mappa e l'elenco degli istituti partner sono consultabili a [questo link](../assets/ISIAU-Erasmus-Mappa-universita-partner_2025-26.pdf){:target="_blank"}.
