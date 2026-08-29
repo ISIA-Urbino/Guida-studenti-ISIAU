@@ -18,7 +18,7 @@ I crediti formativi saranno attribuiti dopo la consegna alla Segreteria Didattic
 
 I tirocini possono essere svolti anche nell'ambito della mobilità Erasmus traineeship e che l'ISIA di Urbino non attiva tirocini extracurriculari.
 
-- [Modulo Richiesta tirocinio](../assets/tirocinio/1-Richiestapertirocinio.doc){:target="_blank"}
+- [Modulo Richiesta tirocinio](../assets/tirocinio/1-Richiestatirocinio.doc){:target="_blank"}
 - [Modulo Richiesta tirocinio in inglese](../assets/tirocinio/1-internshipapplication.doc){:target="_blank"}
 - [Modulo Progetto formativo](../assets/tirocinio/2-Progettoformativo.doc){:target="_blank"}
 - [Modulo Progetto formativo in inglese](../assets/tirocinio/2-trainingproject.doc){:target="_blank"}

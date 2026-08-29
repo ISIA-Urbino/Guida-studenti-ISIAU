@@ -121,6 +121,9 @@ extra_javascript:
   - https://code.jquery.com/jquery-3.7.1.min.js
   - javascripts/extra.js
   - javascripts/schema.js
+# Copia deploy/htaccess in site/.htaccess (politica di cache del server)
+hooks:
+  - hooks/htaccess.py
 plugins:
   - search
 markdown_extensions:

@@ -1,0 +1,48 @@
+# =====================================================================
+# Politica di cache per siti statici Material for MkDocs
+# Da copiare come  .htaccess  nella document root di ogni sottodominio
+# (es. /home/<utente>/public_html/guide/ su Bluehost)
+#
+# Se un .htaccess esiste già: NON sostituirlo, aggiungi questo blocco
+# in fondo al file esistente.
+# =====================================================================
+
+<IfModule mod_headers.c>
+
+    # ---------------------------------------------------------------
+    # 1) Default per TUTTO: il browser può tenere la copia, ma deve
+    #    chiedere al server se è ancora valida a ogni visita.
+    #    Se non è cambiato nulla il server risponde 304 (poche centinaia
+    #    di byte), quindi il costo è trascurabile.
+    #    Copre HTML, URL di directory (/tesi/), search_index.json,
+    #    sitemap.xml, PDF e modulistica.
+    # ---------------------------------------------------------------
+    Header set Cache-Control "no-cache, must-revalidate"
+    Header unset Expires
+    Header unset Pragma
+
+    # ---------------------------------------------------------------
+    # 2) Eccezione: gli asset del tema hanno l'hash del contenuto nel
+    #    nome (main.484c7ddc.min.css). Se il contenuto cambia, cambia
+    #    il nome del file: si possono cachare per sempre senza rischi.
+    # ---------------------------------------------------------------
+    <FilesMatch "\.[0-9a-f]{8,}\.min\.(css|js)$">
+        Header set Cache-Control "public, max-age=31536000, immutable"
+    </FilesMatch>
+
+    # ---------------------------------------------------------------
+    # 3) Immagini, font e media: cache di 1 ora.
+    #    (Questi file NON hanno l'hash nel nome: logo, favicon, foto
+    #    nelle pagine. Un'ora è un buon compromesso.)
+    # ---------------------------------------------------------------
+    <FilesMatch "\.(png|jpe?g|gif|webp|avif|svg|ico|woff2?|ttf|otf|eot|mp4|webm)$">
+        Header set Cache-Control "public, max-age=3600"
+    </FilesMatch>
+
+</IfModule>
+
+# Disattiva eventuali regole Expires ereditate dalla configurazione
+# del server, che sovrascriverebbero quanto sopra.
+<IfModule mod_expires.c>
+    ExpiresActive Off
+</IfModule>
