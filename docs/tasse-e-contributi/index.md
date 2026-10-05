@@ -43,7 +43,7 @@ Di seguito sono riportate le tasse per l’iscrizione e la frequenza dei bienni 
 
 ## Mora e interruzione degli studi
 
-Gli studenti che non effettuano il pagamento delle tasse o del contributo previsto devono pagare una mora di € 100,00 per il ritardo nel pagamento. Il nuovo pagamento deve essere effettuato entro la scadenza indicata nel nuovo avviso di pagamento PagoPA.
+Gli studenti che non effettuano il pagamento delle tasse o del contributo previsto devono pagare una mora di € 300,00 per il ritardo nel pagamento. Il nuovo pagamento deve essere effettuato entro la scadenza indicata nel nuovo avviso di pagamento PagoPA.
 
 Se la scadenza non viene rispettata, la carriera accademica viene interrotta e lo studente deve aspettare l’anno accademico successivo per potersi iscrivere nuovamente. In questo caso, dovrà presentare una domanda di ricongiunzione della carriera per l’anno accademico perso e pagare una tassa di ricognizione stabilita dal Consiglio di Amministrazione per ogni anno di interruzione. La stessa procedura viene applicata se il secondo pagamento non viene effettuato.
 
