@@ -14,11 +14,11 @@ Ai sensi del D.P.R. n. 445 del 28.12.2000 le Pubbliche Amministrazioni italiane 
 
 | Documento | Formato |
 | --- | --- |
-|[Richiesta certificati da parte di studenti già diplomati](<../assets/Richiesta per diplomati.pdf>){:target="_blank"} | pdf |
+|[Richiesta certificati da parte di studenti già diplomati](<../assets/Richiesta certificati per diplomati.pdf>){:target="_blank"} | pdf |
 |[Richiesta ritiro pergamena diploma accademico](<../assets/Richiesta ritiro pergamena di diploma accademico.pdf>){:target="_blank"}<br>Richiesta per il ritiro dell'originale di diploma. Per il ritiro è necessario compilare questo modulo e recarsi di persona in Segreteria didattica, premuniti di un documento di identità, insieme alla tassa da 90,84€ indicata nel modulo e una marca da bollo da 16€ | pdf |
 
 
 ## Richiesta di certificati per studenti ancora frequentanti
 | Documento | Formato |
 | --- | --- |
-|[Richiesta certificati da parte di studenti ancora frequentanti](../assets/Richiesta per studenti frequentanti.pdf){:target="_blank"} | pdf |
+|[Richiesta certificati da parte di studenti ancora frequentanti](../assets/Richiesta certificati per non ancora diplomati.pdf){:target="_blank"} | pdf |
