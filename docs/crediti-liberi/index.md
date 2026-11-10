@@ -13,3 +13,7 @@ hide:
 È possibile richiedere il riconoscimento di crediti formativi della sezione "Attività a scelta dello studente" frequentando materie non previste nel proprio piano di studi presso l'ISIA di Urbino o l'Accademia di Belle Arti di Urbino.
 Non possono essere frequentate più di due materie opzionali nel corso dell'intera carriera accademica.
 L'iscrizione ad una materia opzionale è valida per un solo anno accademico e l'esame deve essere sostenuto entro l'appello invernale.
+
+## Tirocini
+
+:material-arrow-right: Vai alla pagina dedicata ai [Tirocini](tirocini.md)
